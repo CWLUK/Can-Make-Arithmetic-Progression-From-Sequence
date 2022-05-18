@@ -1,2 +1,1 @@
-# Can-Make-Arithmetic-Progression-From-Sequence
-Array Sorting
+https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
